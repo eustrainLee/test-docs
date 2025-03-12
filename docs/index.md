@@ -9,3 +9,9 @@
 ## 进阶主题
 
 如果你想深入了解更多功能，请查看 [进阶配置](advanced/configuration.md)。
+
+---
+| col | col | col |
+| - | - | - |
+| content | content | content |
+| content | content | content |
